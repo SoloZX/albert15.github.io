@@ -1,0 +1,1130 @@
+     html {
+       height: 100%;
+       width: 100%;
+     }
+
+     body {
+       font-family: 'Open Sans', serif;
+       height: 100%;
+       width: 100%;
+     }
+
+     *{
+      overflow-x: hidden;
+     }
+
+     .web {
+       display: block;
+       position: absolute;
+       box-sizing: content-box;
+       transform-origin: center;
+       opacity: 1;
+       overflow-x: auto;
+       overflow-y: auto;
+       background-color: rgba(255, 255, 255, 1);
+       width: 3127px;
+       height: 5691px;
+     }
+
+     .web .albert {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 65px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 174px;
+       height: 86px;
+       left: 342px;
+       top: 86px;
+     }
+
+     .web .about {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 65px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 177px;
+       height: 86px;
+       left: 1531px;
+       top: 86px;
+     }
+
+     .web .experience {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 65px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 308px;
+       height: 86px;
+       left: 1789px;
+       top: 86px;
+     }
+
+     .web .education-atas {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 65px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 284px;
+       height: 86px;
+       left: 2193px;
+       top: 86px;
+     }
+
+     .web .contact-atas {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 65px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 222px;
+       height: 86px;
+       left: 2563px;
+       top: 86px;
+     }
+
+     .web .bgLangit {
+       height: 22%;
+       width: 78%;
+       margin: 10.5%;
+       background-image: url(assets/Langit\ hitam.png);
+       background-size: cover;
+       border-color: white;
+       border-style: solid;
+       border-width: 4px;
+     }
+
+     .web .profil {
+       position: absolute;
+       box-sizing: border-box;
+       background-image: url("assets/profil.png");
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       border-bottom-color: rgba(255, 255, 255, 1);
+       border-bottom-style: solid;
+       border-bottom-width: 10px;
+       border-left-color: rgba(255, 255, 255, 1);
+       border-left-style: solid;
+       border-left-width: 10px;
+       border-right-color: rgba(255, 255, 255, 1);
+       border-right-style: solid;
+       border-right-width: 10px;
+       border-top-color: rgba(255, 255, 255, 1);
+       border-top-style: solid;
+       border-top-width: 10px;
+       border-top-left-radius: 18px;
+       border-top-right-radius: 18px;
+       border-bottom-left-radius: 18px;
+       border-bottom-right-radius: 18px;
+       box-shadow: none;
+       width: 421px;
+       height: 655px;
+       left: 1353px;
+       top: 443px;
+     }
+
+     .web .name {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(255, 255, 255, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 77px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 228px;
+       height: 102px;
+       left: 1450px;
+       top: 1142px;
+     }
+
+     .web .cita {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(255, 255, 255, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 49px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 931px;
+       height: 65px;
+       left: 1098px;
+       top: 1288px;
+     }
+
+     .web .igFb {
+       position: absolute;
+       box-sizing: content-box;
+       background-image: url("assets/igFb.png");
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       border-bottom-color: rgba(112, 112, 112, 1);
+       border-bottom-style: none;
+       border-bottom-width: 1px;
+       border-left-color: rgba(112, 112, 112, 1);
+       border-left-style: none;
+       border-left-width: 1px;
+       border-right-color: rgba(112, 112, 112, 1);
+       border-right-style: none;
+       border-right-width: 1px;
+       border-top-color: rgba(112, 112, 112, 1);
+       border-top-style: none;
+       border-top-width: 1px;
+       border-top-left-radius: 19px;
+       border-top-right-radius: 19px;
+       border-bottom-left-radius: 19px;
+       border-bottom-right-radius: 19px;
+       box-shadow: none;
+       width: 265px;
+       height: 101px;
+       left: 1431px;
+       top: 1397px;
+     }
+
+     .web .rectangle1 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 1);
+       border-bottom-color: rgba(0, 0, 0, 1);
+       border-bottom-style: none;
+       border-bottom-width: 17px;
+       border-left-color: rgba(0, 0, 0, 1);
+       border-left-style: none;
+       border-left-width: 17px;
+       border-right-color: rgba(0, 0, 0, 1);
+       border-right-style: none;
+       border-right-width: 17px;
+       border-top-color: rgba(0, 0, 0, 1);
+       border-top-style: none;
+       border-top-width: 17px;
+       -webkit-filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       width: 2443px;
+       height: 737px;
+       left: 342px;
+       top: 1731px;
+     }
+
+     .web .rectangle2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 1);
+       border-bottom-color: rgba(0, 0, 0, 1);
+       border-bottom-style: none;
+       border-bottom-width: 17px;
+       border-left-color: rgba(0, 0, 0, 1);
+       border-left-style: none;
+       border-left-width: 17px;
+       border-right-color: rgba(0, 0, 0, 1);
+       border-right-style: none;
+       border-right-width: 17px;
+       border-top-color: rgba(0, 0, 0, 1);
+       border-top-style: none;
+       border-top-width: 17px;
+       -webkit-filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       width: 2443px;
+       height: 737px;
+       left: 342px;
+       top: 2558px;
+     }
+
+     .web .rectangle5 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 1);
+       border-bottom-color: rgba(0, 0, 0, 1);
+       border-bottom-style: none;
+       border-bottom-width: 17px;
+       border-left-color: rgba(0, 0, 0, 1);
+       border-left-style: none;
+       border-left-width: 17px;
+       border-right-color: rgba(0, 0, 0, 1);
+       border-right-style: none;
+       border-right-width: 17px;
+       border-top-color: rgba(0, 0, 0, 1);
+       border-top-style: none;
+       border-top-width: 17px;
+       -webkit-filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       width: 2443px;
+       height: 737px;
+       left: 342px;
+       top: 2558px;
+     }
+
+     .web .rectangle3 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 1);
+       border-bottom-color: rgba(0, 0, 0, 1);
+       border-bottom-style: none;
+       border-bottom-width: 17px;
+       border-left-color: rgba(0, 0, 0, 1);
+       border-left-style: none;
+       border-left-width: 17px;
+       border-right-color: rgba(0, 0, 0, 1);
+       border-right-style: none;
+       border-right-width: 17px;
+       border-top-color: rgba(0, 0, 0, 1);
+       border-top-style: none;
+       border-top-width: 17px;
+       -webkit-filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       width: 2443px;
+       height: 737px;
+       left: 342px;
+       top: 3385px;
+     }
+
+     .web .rectangle4 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 1);
+       border-bottom-color: rgba(0, 0, 0, 1);
+       border-bottom-style: none;
+       border-bottom-width: 17px;
+       border-left-color: rgba(0, 0, 0, 1);
+       border-left-style: none;
+       border-left-width: 17px;
+       border-right-color: rgba(0, 0, 0, 1);
+       border-right-style: none;
+       border-right-width: 17px;
+       border-top-color: rgba(0, 0, 0, 1);
+       border-top-style: none;
+       border-top-width: 17px;
+       -webkit-filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       filter: drop-shadow(10px 19px 26px rgba(0, 0, 0, 0.1607843137254902));
+       width: 2443px;
+       height: 1320px;
+       left: 354px;
+       top: 4188px;
+     }
+
+     .web .aboutMe {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 85px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 376px;
+       height: 113px;
+       left: 494px;
+       top: 1827px;
+     }
+
+     .web .workExperience {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 85px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 624px;
+       height: 113px;
+       left: 494px;
+       top: 2655px;
+     }
+
+     .web .education-bawah {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 85px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 371px;
+       height: 113px;
+       left: 494px;
+       top: 3496px;
+     }
+
+     .web .contact2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 85px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 291px;
+       height: 113px;
+       left: 494px;
+       top: 4393px;
+     }
+
+     .web .bio {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 85px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 119px;
+       height: 113px;
+       left: 1805px;
+       top: 1819px;
+     }
+
+     .web .introduction {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 39px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 1214px;
+       height: 312px;
+       left: 494px;
+       top: 1975px;
+     }
+
+     .web .bio2 {
+       position: absolute;
+       box-sizing: content-box;
+       background-image: url("assets/bio.png");
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       border-bottom-color: rgba(112, 112, 112, 1);
+       border-bottom-style: none;
+       border-bottom-width: 1px;
+       border-left-color: rgba(112, 112, 112, 1);
+       border-left-style: none;
+       border-left-width: 1px;
+       border-right-color: rgba(112, 112, 112, 1);
+       border-right-style: none;
+       border-right-width: 1px;
+       border-top-color: rgba(112, 112, 112, 1);
+       border-top-style: none;
+       border-top-width: 1px;
+       box-shadow: none;
+       width: 101px;
+       height: 354px;
+       left: 1773px;
+       top: 1933px;
+     }
+
+     .web .age {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 1);
+       font-size: 35px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 63px;
+       height: 47px;
+       left: 1894px;
+       top: 1952px;
+     }
+
+     .web .umur {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 35px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 38px;
+       height: 47px;
+       left: 2175px;
+       top: 1952px;
+     }
+
+     .web .email {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 1);
+       font-size: 35px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 86px;
+       height: 47px;
+       left: 1894px;
+       top: 2041px;
+     }
+
+     .web .my-email {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       letter-spacing: 0px;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 35px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 368px;
+       height: 94px;
+       left: 2175px;
+       top: 1994px;
+     }
+
+     .web .phone {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 1);
+       font-size: 35px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 101px;
+       height: 47px;
+       left: 1894px;
+       top: 2130px;
+     }
+
+     .web .no-telp {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 35px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 226px;
+       height: 94px;
+       left: 2175px;
+       top: 2083px;
+     }
+
+     .web .address {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 1);
+       font-size: 35px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 127px;
+       height: 47px;
+       left: 1894px;
+       top: 2219px;
+     }
+
+     .web .alamat {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: 1px rgba(0, 0, 0, 0);
+       font-size: 35px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 425px;
+       height: 94px;
+       left: 2175px;
+       top: 2219px;
+     }
+
+     .web .group1 {
+       display: block;
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       overflow-x: unset;
+       overflow-y: unset;
+       background-color: transparent;
+       width: 42px;
+       height: 302.50px;
+       left: 512px;
+       top: 2827.50px;
+     }
+
+     .web .group1 .ellipse1 {
+       position: absolute;
+       box-sizing: border-box;
+       opacity: 1;
+       fill: rgba(255, 255, 255, 1);
+       stroke: rgba(30, 194, 255, 1);
+       stroke-width: 8px;
+       stroke-linecap: butt;
+       box-shadow: none;
+       width: 42px;
+       height: 42px;
+     }
+
+     .web .group1 .line1 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 0.389;
+       stroke: rgba(112, 112, 112, 1);
+       stroke-width: 2px;
+       stroke-linecap: butt;
+       box-shadow: none;
+       width: 2px;
+       height: 261px;
+       left: 20px;
+       top: 41.50px;
+     }
+
+     .web .group2 {
+
+       display: block;
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       overflow-x: unset;
+       overflow-y: unset;
+       background-color: transparent;
+       width: 42px;
+       height: 302.50px;
+       left: 494px;
+       top: 3688.50px;
+     }
+
+     .web .group2 .ellipse2 {
+       position: absolute;
+       box-sizing: border-box;
+       opacity: 1;
+       fill: rgba(255, 255, 255, 1);
+       stroke: rgba(0, 225, 121, 1);
+       stroke-width: 8px;
+       stroke-linecap: butt;
+       box-shadow: none;
+       width: 42px;
+       height: 42px;
+     }
+
+     .web .group2 .line2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 0.389;
+       stroke: rgba(112, 112, 112, 1);
+       stroke-width: 2px;
+       stroke-linecap: butt;
+       box-shadow: none;
+       width: 2px;
+       height: 261px;
+       left: 20px;
+       top: 41.50px;
+     }
+
+     .web .CharacterDesigner {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: unset;
+       font-size: 42px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 509px;
+       height: 56px;
+       left: 586px;
+       top: 2820px;
+     }
+
+     .web .multimedia {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: unset;
+       font-size: 42px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 218px;
+       height: 56px;
+       left: 568px;
+       top: 3681px;
+     }
+
+     .web .mw1 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(68, 68, 68, 1);
+       -webkit-text-stroke: unset;
+       font-size: 31px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 373px;
+       height: 41px;
+       left: 1130px;
+       top: 2828px;
+     }
+
+     .web .mw2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(68, 68, 68, 1);
+       -webkit-text-stroke: unset;
+       font-size: 31px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 573px;
+       height: 41px;
+       left: 800px;
+       top: 3693px;
+     }
+
+     .web .year1 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(125, 125, 125, 1);
+       -webkit-text-stroke: unset;
+       font-size: 25px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 167px;
+       height: 33px;
+       left: 586px;
+       top: 2890px;
+     }
+
+     .web .year2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(125, 125, 125, 1);
+       -webkit-text-stroke: unset;
+       font-size: 25px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 132px;
+       height: 33px;
+       left: 568px;
+       top: 3751px;
+     }
+
+     .web .kerja {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: unset;
+       font-size: 30px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 1777px;
+       height: 120px;
+       left: 586px;
+       top: 2952px;
+     }
+
+     .web .jurusan {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(0, 0, 0, 1);
+       -webkit-text-stroke: unset;
+       font-size: 30px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 1701px;
+       height: 120px;
+       left: 568px;
+       top: 3829px;
+     }
+
+     .web .igFb2 {
+       position: absolute;
+       box-sizing: content-box;
+       background-image: url("assets/igFb2.png");
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       border-bottom-color: rgba(112, 112, 112, 1);
+       border-bottom-style: none;
+       border-bottom-width: 1px;
+       border-left-color: rgba(112, 112, 112, 1);
+       border-left-style: none;
+       border-left-width: 1px;
+       border-right-color: rgba(112, 112, 112, 1);
+       border-right-style: none;
+       border-right-width: 1px;
+       border-top-color: rgba(112, 112, 112, 1);
+       border-top-style: none;
+       border-top-width: 1px;
+       box-shadow: none;
+       width: 181px;
+       height: 71px;
+       left: 1432px;
+       top: 5201px;
+     }
+
+     .web .contact {
+       position: absolute;
+       box-sizing: content-box;
+       background-image: url("assets/contact.png");
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       border-bottom-color: rgba(112, 112, 112, 1);
+       border-bottom-style: none;
+       border-bottom-width: 1px;
+       border-left-color: rgba(112, 112, 112, 1);
+       border-left-style: none;
+       border-left-width: 1px;
+       border-right-color: rgba(112, 112, 112, 1);
+       border-right-style: none;
+       border-right-width: 1px;
+       border-top-color: rgba(112, 112, 112, 1);
+       border-top-style: none;
+       border-top-width: 1px;
+       box-shadow: none;
+       width: 74px;
+       height: 176px;
+       left: 494px;
+       top: 4565px;
+     }
+
+     .web .nomor {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(68, 68, 68, 1);
+       -webkit-text-stroke: unset;
+       font-size: 37px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 239px;
+       height: 49px;
+       left: 608px;
+       top: 4582px;
+     }
+
+     .web .albertsakak {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(68, 68, 68, 1);
+       -webkit-text-stroke: unset;
+       font-size: 37px;
+       font-weight: 400;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 399px;
+       height: 49px;
+       left: 608px;
+       top: 4669px;
+     }
+
+     .web .albert2 {
+       position: absolute;
+       box-sizing: content-box;
+       opacity: 1;
+       background-color: rgba(255, 255, 255, 0);
+       text-align: left;
+       color: rgba(125, 125, 125, 1);
+       -webkit-text-stroke: unset;
+       font-size: 84px;
+       font-weight: 700;
+       font-style: normal;
+       font-family: 'Segoe UI', Arial;
+       text-decoration: none;
+       box-shadow: none;
+       overflow-x: unset;
+       overflow-y: unset;
+       white-space: pre;
+       width: 237px;
+       height: 112px;
+       left: 1404px;
+       top: 5089px;
+     }
